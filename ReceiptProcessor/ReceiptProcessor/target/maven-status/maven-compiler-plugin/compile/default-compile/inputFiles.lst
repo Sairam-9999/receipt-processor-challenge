@@ -1,0 +1,11 @@
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\controller\ReceiptController.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\model\Receipt.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\ReceiptProcessorApplication.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\repository\impl\ReceiptRepositoryImpl.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\repository\ReceiptRepository.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\request\Item.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\request\ReceiptBody.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\service\impl\PointsCalculatorServiceImpl.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\service\impl\ReceiptServiceImpl.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\service\PointsCalculatorService.java
+C:\Users\saira\Downloads\ReceiptProcessor\ReceiptProcessor\src\main\java\com\example\receiptprocessor\service\ReceiptService.java

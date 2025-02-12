@@ -1,0 +1,11 @@
+com\example\receiptprocessor\repository\ReceiptRepository.class
+com\example\receiptprocessor\repository\impl\ReceiptRepositoryImpl.class
+com\example\receiptprocessor\controller\ReceiptController.class
+com\example\receiptprocessor\service\impl\PointsCalculatorServiceImpl.class
+com\example\receiptprocessor\model\Receipt.class
+com\example\receiptprocessor\service\ReceiptService.class
+com\example\receiptprocessor\request\ReceiptBody.class
+com\example\receiptprocessor\request\Item.class
+com\example\receiptprocessor\service\impl\ReceiptServiceImpl.class
+com\example\receiptprocessor\ReceiptProcessorApplication.class
+com\example\receiptprocessor\service\PointsCalculatorService.class

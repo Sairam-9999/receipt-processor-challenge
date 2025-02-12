@@ -1,0 +1,5 @@
+To run the application follow the instructions:
+
+1. mvn clean install (should have installed Maven)
+2. docker build -t receipt-processor . (Docker needs to be installed)
+3. docker run -p 8080:8080 receipt-processor
